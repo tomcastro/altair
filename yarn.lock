@@ -1181,10 +1181,10 @@
   resolved "https://registry.yarnpkg.com/@ngrx/effects/-/effects-8.1.0.tgz#76245d6d8658fbe84d610ade4016cc7d6091d09a"
   integrity sha512-JQKD39Itsq70Mlq8kJ/yQuVbM08luAUexMqyi5HECe8izyRNkcIGJFh/2VkQSMLUGSNkU7qnT7y7xug8GA+AGA==
 
-"@ngrx/store-devtools@^8.1.0":
-  version "8.1.0"
-  resolved "https://registry.yarnpkg.com/@ngrx/store-devtools/-/store-devtools-8.1.0.tgz#b720be01c5d3a7250f33429767c6ae792a2b8de7"
-  integrity sha512-1xqZR728Jev2bjV/KDxFCT+B1aGhbIWbn3yeAm/gPyDGaJAmaQlBdE6M8Yxjsr3kCffwyPv8jtD3ekdY47l2VA==
+"@ngrx/store-devtools@^8.5.2":
+  version "8.5.2"
+  resolved "https://registry.yarnpkg.com/@ngrx/store-devtools/-/store-devtools-8.5.2.tgz#722b2b9d290f6b64a9bce421d1a0f283970319a3"
+  integrity sha512-3GrAAX3/J39u0AcREgWBiUwuNkZhgei+2K6/bulkAu/BHw+PJaZqq5+c+uQFvi0/aq+/8+9wjNhhCWS4Entk/Q==
 
 "@ngrx/store@^8.1.0":
   version "8.1.0"
