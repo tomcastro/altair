@@ -58,7 +58,7 @@
     "@angular/router": "^8.1.2",
     "@beyerleinf/ngx-dnd": "^8.0.2",
     "@ctrl/ngx-codemirror": "^2.0.0",
-    "@ngrx/effects": "^8.1.0",
+    "@ngrx/effects": "8.5.2",
     "@ngrx/store": "^8.1.0",
     "@ngrx/store-devtools": "^8.1.0",
     "@ngui/auto-complete": "^2.0.0",
